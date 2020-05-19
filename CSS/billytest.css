@@ -1,0 +1,29 @@
+body{
+	background-color: pink;
+}
+
+h1{
+	font-size: 35px;
+	color:teal;
+}
+
+h2{
+	color: yellow;
+	font-size: 88px;
+}
+
+.big{
+	font-size: 99px
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase{
+	color: red
+}
+
+h1 span{
+	color: violet;
+}
