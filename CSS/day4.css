@@ -1,0 +1,40 @@
+body{
+	margin: 0;
+	font-family: 'Cedarville Cursive', cursive;
+	font-size-adjust: 15px
+	color: white;
+}
+
+header{
+	background-color:  #5EA5F0 ;
+	text-align: center;
+}
+
+header h1{
+	color: orange;
+
+}
+
+h1,h2 {
+	font-family: 'Indie FLower', cursive;
+
+}
+
+
+
+main{
+	background-color: #14395F ;
+	max-width: 500px;
+	margin: 0 auto;
+}
+ h2{
+ 	font-size: 35px;
+	color: orange;
+	margin: 40px 0 px 10px;
+ } 
+
+
+	
+}	
+
+}
